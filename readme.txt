@@ -1,4 +1,4 @@
-James and Shawn
+James
 
 https://www.geeksforgeeks.org/stdstoi-function-in-cpp/
 to turn string into integer values "stoi"
